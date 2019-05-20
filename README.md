@@ -1,6 +1,6 @@
 # Emacs-and-OMZ-Configuration
 
-<img src="screen1.png" width="1000">
+<img src="img/screen1.png" width="1000">
 
 
 # Installing a Theme
