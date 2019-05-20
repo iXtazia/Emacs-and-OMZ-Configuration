@@ -1,3 +1,3 @@
 # Emacs-and-OMZ-Configuration
 
-<img src="imgs/screen.gif" width="700">
+<img src="imgs/screen1.xcf" width="700">
