@@ -21,4 +21,4 @@ ZSH_THEME="ixtazia"
 
 Replace .emacs
 
-#DONE 🎉 !!
+# DONE 🎉 !!
