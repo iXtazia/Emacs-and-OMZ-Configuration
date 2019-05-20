@@ -2,7 +2,7 @@
 
 <img src="imgs/screen1.png" width="1000">
 
-<img src="imgs/screen2.png" width="700">
+<img src="imgs/screen2.png" width="400">
 
 
 # Installing a Theme
